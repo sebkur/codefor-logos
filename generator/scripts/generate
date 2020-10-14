@@ -1,0 +1,7 @@
+#!/bin/bash
+
+DIR=$(dirname $0)
+CMD="$DIR/codefor-logos-generator.sh"
+CLASS="de.topobyte.codeforgermany.Generate"
+
+exec "$CMD" "$CLASS" "$@"
