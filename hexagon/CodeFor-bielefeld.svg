@@ -12,12 +12,13 @@
    version="1.1"
    x="0px"
    y="0px"
-   viewBox="0 0 162 162"
-   style="enable-background:new 0 0 162 162;"
+   viewBox="0 0 198.425 198.425"
    xml:space="preserve"
    id="svg1491"
    sodipodi:docname="CodeFor-bielefeld.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   width="198.425"
+   height="198.425"><metadata
    id="metadata1497"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -30,14 +31,14 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="3760"
-   inkscape:window-height="2105"
+   inkscape:window-width="1680"
+   inkscape:window-height="993"
    id="namedview1493"
    showgrid="false"
-   inkscape:zoom="11.382716"
-   inkscape:cx="81"
-   inkscape:cy="81"
-   inkscape:window-x="80"
+   inkscape:zoom="1.6584921"
+   inkscape:cx="-130.89173"
+   inkscape:cy="67.682576"
+   inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg1491" />
@@ -54,16 +55,32 @@
 </style>
 <g
    id="Ebene_7"
-   style="display:inline">
+   style="display:inline"
+   transform="translate(0,36.425)">
+</g>
+
+<g
+   id="Ebene_3"
+   class="st2"
+   style="display:inline"
+   transform="translate(0,36.425)">
 </g>
 <g
+   id="Festes"
+   style="display:inline"
+   transform="translate(0,36.425)">
+</g>
+
+
+<g
    id="Ebene_1"
-   style="display:inline">
+   style="display:inline"
+   transform="translate(18.312502,19.312502)">
 	<g
    id="g1281">
 		<polygon
    class="st0"
-   points="28.4,110.1 28.4,49.7 80.9,19.4 133.4,49.7 133.4,110.1 80.9,140.4 "
+   points="80.9,19.4 133.4,49.7 133.4,110.1 80.9,140.4 28.4,110.1 28.4,49.7 "
    id="polygon1277"
    style="display:inline;fill:#ff867f" />
 		<path
@@ -75,7 +92,7 @@
 	</g>
 	<polygon
    class="st1"
-   points="81.1,147.7 22.6,113.8 22.6,46.2 81.1,12.3 139.6,46.2 139.6,113.8 "
+   points="22.6,46.2 81.1,12.3 139.6,46.2 139.6,113.8 81.1,147.7 22.6,113.8 "
    id="polygon1283"
    style="display:inline;fill:none;stroke:#ffffff;stroke-width:2;stroke-miterlimit:10" />
 	<g
@@ -112,19 +129,10 @@
    id="polygon1293"
    style="fill:#ff867f" />
 	</g>
-</g>
-<g
-   id="Ebene_3"
-   class="st2"
-   style="display:inline">
-</g>
-<g
-   id="Festes"
-   style="display:inline">
-</g>
-<g
+</g><g
    id="Bielefeld_x5F_Pfade"
-   style="display:inline">
+   style="display:inline"
+   transform="translate(18.312502,19.312502)">
 	<polyline
    class="st1"
    points="141.7,115.4 141.7,115.4 110.5,79.7 140.8,44.9 140.8,44.9  "
@@ -163,7 +171,7 @@
    id="g1336">
 					<polygon
    class="st3"
-   points="76.1,38.7 76.3,38.7 76.5,38.7 76.5,29.1 75.3,29.1 75.3,29.2 75.3,38.7 "
+   points="76.3,38.7 76.5,38.7 76.5,29.1 75.3,29.1 75.3,29.2 75.3,38.7 76.1,38.7 "
    id="polygon1310"
    style="fill:#ffffff" />
 					<path
@@ -174,7 +182,7 @@
    style="fill:#ffffff" />
 					<polygon
    class="st3"
-   points="83,38.7 83,29.1 81.7,29.1 81.7,29.2 81.7,38.7 82.8,38.7 "
+   points="81.7,29.1 81.7,29.2 81.7,38.7 82.8,38.7 83,38.7 83,29.1 "
    id="polygon1314"
    style="fill:#ffffff" />
 					<path
@@ -387,10 +395,10 @@
    id="polyline1394"
    style="fill:none;stroke:#ffffff;stroke-width:2;stroke-miterlimit:10" />
 	</g>
-</g>
-<g
+</g><g
    id="Ebene_5"
-   style="display:inline">
+   style="display:inline"
+   transform="translate(18.312502,19.312502)">
 	<g
    id="g1401">
 		<path
@@ -400,13 +408,13 @@
    inkscape:connector-curvature="0"
    style="fill:#ff867f" />
 	</g>
-</g>
-<g
+</g><g
    id="Ebene_6"
-   style="display:inline">
+   style="display:inline"
+   transform="translate(18.312502,19.312502)">
 	<polygon
    class="st1"
-   points="139.6,113.8 81.1,147.7 22.6,113.8 22.6,46.2 81.1,12.3 139.6,46.2 "
+   points="22.6,113.8 22.6,46.2 81.1,12.3 139.6,46.2 139.6,113.8 81.1,147.7 "
    id="polygon1404"
    style="fill:none;stroke:#ffffff;stroke-width:2;stroke-miterlimit:10" />
 	<g
